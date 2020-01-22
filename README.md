@@ -3,7 +3,7 @@
 ### Overview
 This repository contains my work on NLP Sentiment Analysis. The works are inspired from the great Udacity Deep Learning Nanodegree. Please check out the link for details: https://github.com/udacity/deep-learning-v2-pytorch
 
-I did not enroll in Udacity Deep Learning Nanodegree program; however, I have always been looking for ways to learn and experiment latest innovations through self-learning from diverse online resources.
+I am not enrolled in Udacity Deep Learning Nanodegree program; however, I have always been looking for ways to learn and experiment latest innovations through self-learning from diverse online resources.
 
 ### Worklist
 - Notebook 1. NLP_SentimentAnalysis_RNN.ipynb (from Udacity DeepLearningND)
