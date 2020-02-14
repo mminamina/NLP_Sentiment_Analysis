@@ -13,8 +13,8 @@ Notebook_2 shows my own simple NLP implementation in Keras on Sentiment Analysis
 Problem Nature: Multi-Class text classification (Positive, Negative)
 Model:  LSTM with embedding 
     
-Packages Used
+#### Packages Used
 
-Python 3.6, NLTK, Pytorch, Keras, Sklearn
+Python, NLTK, Pytorch, Keras, Sklearn
 
 LICENSE: This project is licensed under the terms of the MIT license.
